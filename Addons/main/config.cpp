@@ -26,3 +26,4 @@ class CfgPatches {
 #include "CfgMods.hpp"
 #include "CfgSettings.hpp"
 #include "CfgFunctions.hpp"
+#include "CfgEventHandlers.hpp"
