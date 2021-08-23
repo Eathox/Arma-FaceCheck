@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="FCH">
+    <Package name="Main">
+        <Key ID="STR_FCH_Name">
+            <English>Face Check</English>
+        </Key>
+        <Key ID="STR_FCH_Main_Author">
+            <English>Eathox</English>
+        </Key>
+        <Key ID="STR_FCH_Category">
+            <English>Face Check</English>
+        </Key>
+        <Key ID="STR_FCH_CheckForEachSide">
+            <English>Check For Each Side</English>
+        </Key>
+        <Key ID="STR_FCH_CheckForEachSideToolTip">
+            <English>Treat each side individually instead of all sides together.
+            (Allows each faces to show up once per side)</English>
+        </Key>
+        <Key ID="STR_FCH_Main_URL">
+            <English>https://github.com/Eathox/Arma-FaceCheck</English>
+        </Key>
+    </Package>
+</Project>
