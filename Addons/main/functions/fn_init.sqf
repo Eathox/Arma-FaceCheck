@@ -18,3 +18,14 @@ addMissionEventHandler ["PlayerConnected", {
 
     _uid call FCH_fnc_checkFace;
 }];
+
+// WIP: New method once 2.06 comes out
+// addMissionEventHandler ["OnUserSelectedPlayer", {
+// 	params ["_networkId", "_playerObject"];
+// 	_playerObject addEventHandler ["Local", {
+// 		_player removeEventHandler ["Local", _thisEventHandler];
+// 		params ["_player"];
+
+//         _player call FCH_fnc_checkFace;
+// 	}];
+// }];
